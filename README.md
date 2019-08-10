@@ -1,5 +1,5 @@
 # expApp-tests
-Simple automatic tests for simple web application.
+Simple automatic tests with selenium for simple web application.
 
 ## Run demo app on localhost
 
