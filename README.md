@@ -16,3 +16,5 @@ If you are not using docker, clone source repository from: https://github.com/Pa
 test project is build with Maven. All dependencies and plugins are already in pom.xml.
 To setup working test environment, run docker container with app as mentioned in previous section and perform
 `mvn clean install` to ensure that build plugin downloads needed dependencies and Chrome Driver binaries.
+
+Run tests with simple command: `mvn test`.
